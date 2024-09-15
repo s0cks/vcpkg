@@ -1,0 +1,7 @@
+{
+  "cmakeFormat.args": [
+    "-c",
+    ".cmake-format.yaml"
+  ],
+  "cmakeFormat.cwd": "${workspaceFolder}",
+}
