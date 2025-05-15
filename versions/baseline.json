@@ -7,6 +7,10 @@
     "cel": {
       "baseline": "0.11.0",
       "port-version": 0
+    },
+    "ecl": {
+      "baseline": "24.5.10",
+      "port-version": 0
     }
   }
 }

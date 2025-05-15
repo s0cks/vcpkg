@@ -1,0 +1,16 @@
+{
+  "name": "ecl",
+  "version": "24.5.10",
+  "description": "Embeddable Common-Lisp",
+  "homepage": "https://gitlab.com/embeddable-common-lisp/ecl",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
