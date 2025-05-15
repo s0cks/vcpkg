@@ -2,7 +2,8 @@ vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
   REPO s0cks/ecl
   REF 24.5.10
-  SHA512 0
+  SHA512
+    5060b2e829d1a6e815fc457ea70596a272e2b302c081efe78924fb38f4589293204a9789173875d53389a7144d232b409d838d94ebd9acfbae40b0dbaf3d76e7
   HEAD_REF develop)
 vcpkg_configure_make(SOURCE_PATH ${SOURCE_PATH})
 vcpkg_cmake_install()
