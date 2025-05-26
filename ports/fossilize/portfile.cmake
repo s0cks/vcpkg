@@ -1,3 +1,5 @@
+set(FOSSILIZE_CLI OFF)
+set(FOSSILIZE_TESTS OFF)
 vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
   REPO ValveSoftware/Fossilize
