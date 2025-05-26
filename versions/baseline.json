@@ -8,6 +8,10 @@
       "baseline": "24.5.10",
       "port-version": 0
     },
+    "fossilize": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "libogg-test": {
       "baseline": "1.3.3",
       "port-version": 0
