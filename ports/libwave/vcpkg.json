@@ -1,0 +1,7 @@
+{
+  "name": "libwave",
+  "version": "0.1.0",
+  "description": "A simple C library for reading/writing PCM wave (.wav) files.",
+  "homepage": "https://github.com/brglng/libwave",
+  "license": "Apache-2.0"
+}
